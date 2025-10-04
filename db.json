@@ -1,0 +1,31 @@
+{
+  "employee": [
+    {
+      "id": "203",
+      "name": "손준형",
+      "email": "handong@naver.com",
+      "major": "전산전자공학부",
+      "phone": "010-4241-4228",
+      "gender": "female",
+      "active": true
+    },
+    {
+      "id": "303",
+      "name": "유창빈",
+      "email": "dbckdqls@handong.edu",
+      "major": "상담심리학",
+      "phone": "010-2294-1243",
+      "gender": "male",
+      "active": true
+    },
+    {
+      "id": "102",
+      "name": "조영우",
+      "email": "jojo@gmail.com",
+      "major": "토목공학",
+      "phone": "010-2323-1134",
+      "gender": "male",
+      "active": true
+    }
+  ]
+}
